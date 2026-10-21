@@ -37,7 +37,7 @@ A deployed instance is the easiest way to use this bot. Just invite it to your s
 
 Get it from here: https://discord.com/discovery/applications/1381658412550590475
 
-Make sure to read the [Privacy Policy]() and the [TOS]() before using it.
+Make sure to read the [Privacy Policy](https://github.com/PaperTrailBot/.github/blob/main/PRIVACY_POLICY.md) and the [TOS](https://github.com/PaperTrailBot/.github/blob/main/TOS.md) before using it.
 
 Run the `/help` slash command to see instructions on how to configure the bot for your server.
 
